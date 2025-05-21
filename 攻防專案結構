@@ -1,6 +1,0 @@
-CyberSecurityRL/
-│
-├── env.py          # 自訂環境定義
-├── main.py         # 主程式，包含訓練與測試邏輯
-├── README.md       # 專案說明文件
-
