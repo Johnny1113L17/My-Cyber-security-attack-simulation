@@ -38,5 +38,18 @@
 ├── README.md           ← 專案說明與學習心得
 
 
+---
 
+##  使用方式
+
+### 安裝必要套件
+```bash
+pip install stable-baselines3 gym
+
+---
+
+##  執行訓練
+
+python main.py
+# 輸入：train
 
