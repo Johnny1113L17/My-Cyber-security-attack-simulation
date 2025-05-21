@@ -48,15 +48,15 @@ pip install stable-baselines3 gym
 
 
 ```
-執行訓練
+## 執行訓練
 
 python main.py
-# 輸入：train
+ 輸入：train
 
-###   執行測試
+##   執行測試
 
 python main.py
-# 輸入：test
+ 輸入：test
 
 ##   學習心得與動機
 
