@@ -36,5 +36,7 @@
 ├── env.py              ← 自訂強化學習資安環境
 ├── main.py             ← 主程式：訓練 / 測試都在這
 ├── README.md           ← 專案說明與學習心得
-└── ppo_cybersecurity.zip （可選：訓練後的模型檔）
+
+
+
 
